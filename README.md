@@ -1,7 +1,4 @@
----
-title: "About"
-date: 2021-05-24T12:33:09-07:00
----
+# [Recipes](https://mirrorkeydev/Recipes)
 
 This site hosts the recipes I use regularly for easy access.
 
