@@ -1,4 +1,4 @@
-# [Recipes](https://mirrorkeydev/Recipes)
+# [Recipes](https://mirrorkey.dev/Recipes)
 
 This site hosts the recipes I use regularly for easy access.
 
