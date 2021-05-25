@@ -49,3 +49,5 @@ Serves: 6
 ## Notes
 - The smoother you can blend the sauce, the better. Having a Vitamix instead of food processor is a plus.
 - Holds very well in fridge, up to and over a week in my experience. Good for batch cooking.
+
+_[Adapted from Cafe Delites.](https://cafedelites.com/butter-chicken/)_
