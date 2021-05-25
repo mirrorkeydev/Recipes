@@ -1,8 +1,10 @@
-# [Recipes](https://mirrorkey.dev/recipes)
+# [mirrorkey.dev/recipes](https://mirrorkey.dev/recipes)
 
-This site hosts the recipes I use regularly for easy access.
+> A minimal site that hosts recipes for easy access.
 
-It's built using Hugo with a modified version of the [Tanka](https://github.com/nanxstats/hugo-tanka) theme.
+I got tired of juggling a small virtual pile of links, pdfs, emails, and paper recipes. This site replaces that: all the recipes that I regularly reference in one place, alterations and attributions included. No more wading through 10 paragraphs of SEO groveling + ad popups that slow the page to a crawl. This site is simple: an alphabetical list of recipes, each containing the necessary ingredients and steps, and at most one image per recipe.
+
+The site itself is built using Hugo with a modified version of the [Tanka](https://github.com/nanxstats/hugo-tanka) theme.
 
 # Development
 
