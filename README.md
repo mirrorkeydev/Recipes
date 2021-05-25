@@ -2,7 +2,7 @@
 
 This site hosts the recipes I use regularly for easy access.
 
-It's built using Hugo with the [Tanka](https://github.com/nanxstats/hugo-tanka) theme.
+It's built using Hugo with a modified version of the [Tanka](https://github.com/nanxstats/hugo-tanka) theme.
 
 # Development
 
