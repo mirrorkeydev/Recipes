@@ -4,11 +4,9 @@ date: 2021-05-24T12:47:25-07:00
 allergens: "gluten free"
 ---
 
-Prep: 30 min
-
-Cook: 1.5 hours
-
-Serves: 12 (one 9x13" pan)
+| Prep   | Cook | Serves |
+| :----: | :----: | :----: |
+| 30 min | 1.5 hr | 12 (one 9x13" pan) |
 
 ## Ingredients
 

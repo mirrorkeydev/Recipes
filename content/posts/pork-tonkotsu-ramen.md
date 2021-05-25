@@ -3,11 +3,9 @@ title: "Pork Tonkotsu Ramen"
 date: 2021-05-24T12:49:01-07:00
 ---
 
-Prep: A lot, over a long period. Plan 2-3 days to make this recipe.
-
-Cook: 12-18 hours
-
-Serves: 6
+| Prep | Cook | Serves |
+| :----: | :----: | :----: |
+| a lot | 12-18 hr | 6 |
 
 ## Ingredients
 

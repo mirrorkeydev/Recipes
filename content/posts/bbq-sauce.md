@@ -4,11 +4,9 @@ date: 2021-05-25T09:01:40-07:00
 ---
 > No-ketchup recipe. 
 
-Prep: 5 min
-
-Cook: 10 min
-
-Serves: 2 cups
+| Prep   | Cook | Serves |
+| :----: | :----: | :----: |
+| 5 min | 10 min | 2 cups |
 
 ## Ingredients
 

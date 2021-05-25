@@ -124,6 +124,20 @@ hr {
     margin-right: 1.5rem;
 }
 
+table {
+    table-layout: fixed;
+    width: 300px;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid#c0c0c0;
+    margin: 1.5rem;
+}
+
+tr, th, td {
+    border: 1px solid#c0c0c0;
+}
+
 /* blog post typography */
 
 .content .blog-post-title {

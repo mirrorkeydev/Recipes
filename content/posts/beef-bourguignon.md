@@ -6,11 +6,9 @@ slow-cooker: true
 
 > Also known as pot roast.
 
-Prep: 20 min
-
-Cook: 9 hours
-
-Serves: 6
+| Prep | Cook | Serves |
+| :----: | :----: | :----: |
+| 20 min | 9 hr | 6 |
 
 ## Ingredients
 

@@ -5,11 +5,9 @@ date: 2021-05-25T09:01:56-07:00
 
 > For gyros, baked potatoes, and raclette.
 
-Prep: 20-30 min
-
-Cook: 0 min
-
-Serves: 2-3 cups
+| Prep | Cook | Serves |
+| :----: | :----: | :----: |
+| 30 min | 0 min | 2-3 cups |
 
 ## Ingredients
 
