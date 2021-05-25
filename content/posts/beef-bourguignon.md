@@ -4,6 +4,8 @@ date: 2021-05-24T12:48:16-07:00
 slow-cooker: true
 ---
 
+> Also known as pot roast.
+
 Prep: 20 min
 
 Cook: 9 hours

@@ -13,10 +13,10 @@ Serves: 6
 
 #### Broth:
 - 8 lbs pork bones (neck or femur)
-- 0.8 lbs pork fatback/suet (no skin)
+- 0.8 lbs pork fatback/suet
 
 #### Tare:
-- 5 3 inch by 3 inch squares of kombu
+- 5 3 inch by 3 inch squares of kombu. Shredded kombu or knots will do in a pinch but will be annoying.
 - Water to cover (around 1-2 cups)
 - ¾ cup dried niboshi (can sub dried anchovies if niboshi not available)
 - 1 tbs sesame oil
