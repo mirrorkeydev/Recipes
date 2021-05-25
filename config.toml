@@ -1,4 +1,4 @@
-baseurl = "https://mirrorkey.dev/Recipes/"
+baseurl = "https://mirrorkey.dev/recipes/"
 title = "Recipes"
 author = "Melanie Gutzmann"
 canonifyurls = true

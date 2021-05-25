@@ -32,4 +32,4 @@ slow-cooker: true
 2. Add the red wine to the skillet scraping down the brown bits on the side. Allow it to simmer and reduce and slowly add chicken broth, and tomato sauce, and soy sauce. Slowly whisk in the flour. Add the sauce to the slow cooker.
 3. Add garlic, thyme, carrots, potatoes, and mushrooms to the slow cooker. Give it a good stir and cook on low until beef is tender for 8-10 hours or high for 6. Garnish with fresh parsley and serve with mashed potatoes if desired.
 
-_[Adapted from Cafe Delites.](https://cafedelites.com/butter-chicken/)_
+_[Adapted from Alyssa Rivers.](https://therecipecritic.com/slow-cooker-beef-bourguignon/)_

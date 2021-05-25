@@ -52,7 +52,7 @@ date: 2021-05-24T12:49:01-07:00
 ## Notes
 - The 176 degree requirement isn't strict. I've accidentally gone to 200 and it was fine, just try to keep it between 150-200.
 - Get mirin not made with corn syrup. Nice mirin will be made with cane sugar.
-- Goes well with [pork chashu](/pork-chashu).
+- Goes well with [pork chashu](/posts/pork-chashu).
 - Need to try caramelizing bones and seeing how it affects flavor.
 
 _Adapted from reddit user [Ramen_Lord](https://www.reddit.com/r/ramen/comments/2l2eas/here_it_is_the_granddaddy_of_them_all_homemade_18/clqspvj)._
