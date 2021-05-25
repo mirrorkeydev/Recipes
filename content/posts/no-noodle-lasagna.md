@@ -56,4 +56,4 @@ Serves: 12 (one 9x13" pan)
 - If the cream cheese isn't soft enough, you will have a bad time.
 
 
-_Adapted from [Alyssa Rivers](https://therecipecritic.com/slow-cooker-beef-bourguignon/)._
+_Adapted from [Kyndra Holley](https://peaceloveandlowcarb.com/just-like-the-real-thing-lasagna/)._
