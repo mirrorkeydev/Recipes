@@ -1,7 +1,8 @@
 ---
 title: "No-Noodle Lasagna"
 date: 2021-05-24T12:47:25-07:00
-allergens: "gluten free"
+tags: 
+  - "gluten free"
 ---
 
 | Prep   | Cook | Serves |

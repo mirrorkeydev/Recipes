@@ -1,6 +1,8 @@
 ---
 title: "Tzatziki"
 date: 2021-05-25T09:01:56-07:00
+tags:
+  - "vegetarian"
 ---
 
 > For gyros, baked potatoes, and raclette.

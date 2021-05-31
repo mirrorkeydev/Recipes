@@ -1,36 +1,39 @@
 ---
 title: "Baked Mac and Cheese"
 date: 2021-05-24T12:49:45-07:00
-draft: true
 ---
-
-> No-ketchup recipe. 
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
-| 5 min | 10 min | 2 cups |
+| 30 min | 30 min | 12 |
 
 ## Ingredients
 
-- 1 can (15 ounces) tomato sauce 
-- 1 can (6 ounces) tomato paste 
-- 1/3 cup apple cider vinegar
-- 1/4 cup pure maple syrup
-- 1/4 cup molasses
-- 2 tablespoons Worcestershire sauce
-- 2 teaspoons smoked paprika
-- 1 teaspoon dry mustard
-- 1 teaspoon garlic powder
-- 1/2 teaspoon kosher salt
-- 1/2 teaspoon black pepper
-- 1/8-1/4 teaspoon cayenne pepper (to taste)
+- 16 oz elbow macaroni, cooked (or other tubular pasta)
+- 1 tbsp extra virgin olive oil
+- 6 tbsp unsalted butter
+- 1/3 cup all purpose flour
+- 3 cups whole milk
+- 1 cup heavy whipping cream
+- 4 cups sharp cheddar cheese shredded
+- 2 cups Gruyere cheese shredded
+- salt and pepper to taste
+- 1 1/2 cups panko crumbs
+- 4 tbsp butter melted
+- 1/2 cup Parmesan cheese shredded
+- 1/4 tsp smoked paprika (or regular paprika)
 
 ## Steps
 
-1. In a medium saucepan, stir together all of the ingredients: tomato sauce, tomato paste, apple cider vinegar, maple syrup, molasses, Worcestershire, smoked paprika, dry mustard, garlic, salt, black pepper, and cayenne pepper. Bring to a simmer over medium heat.
-2. Cover with a lid slightly ajar so that the pot is mostly covered to deter splattering, but steam can still escape and the sauce can reduce. Let cook, stirring occasionally, until the sauce thickens, about 10 to 15 minutes. Taste and adjust seasonings as desired. Enjoy immediately or let cool and store in an airtight container in the refrigerator for up to 1 week.
+1. Preheat oven to 350F. Lightly grease a large 3 qt or 4 qt baking dish and set aside. Combine shredded cheeses in a large bowl and set aside.
+2. Cook the pasta one minute shy of al dente according to the package instructions. Remove from heat, drain, and place in a large bowl.
+3. Drizzle pasta with olive oil and stir to coat pasta. Set aside to cool while preparing cheese sauce.
+4. Melt butter in a deep saucepan, dutch oven, or stock pot.
+5. Whisk in flour over medium heat and continue whisking for about 1 minute until bubbly and golden.
+6. Gradually whisk in the milk and heavy cream until nice and smooth. Continue whisking until you see bubbles on the surface and then continue cooking and whisking for another 2 minutes. 7.7. Whisk in salt and pepper.
+8. Add two cups of shredded cheese and whisk until smooth. Add another two cups of shredded cheese and continue whisking until creamy and smooth. Note that you're not using ALL of the shredded cheese here, only 2/3 of the total batch. You'll need the other 1/3 later. Sauce should be nice and thick.
+9. Stir in the cooled pasta until combined and pasta is fully coated with the cheese sauce.
+10. Pour half of the mac and cheese into the prepared baking dish. Top with remaining 2 cups of shredded cheese and then the remaining mac and cheese.
+11. In a small bowl, combine panko crumbs, Parmesan cheese, melted butter and paprika. Sprinkle over the top and bake until bubbly and golden brown, about 30 minutes. Serve immediately.
 
-## Notes
-- In my experience, holds almost indefinitely in the fridge.
-
-_[Adapted from wellplated.](https://www.wellplated.com/homemade-barbecue-sauce/)_
+_[Adapted from momontimeout.](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/)_
