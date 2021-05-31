@@ -1,6 +1,8 @@
 ---
 title: "Soft Cheese Vegetables"
 date: 2021-05-30T21:11:51-07:00
+tags:
+  - "vegetarian"
 ---
 
 | Prep   | Cook | Serves |
@@ -15,7 +17,7 @@ date: 2021-05-30T21:11:51-07:00
 - 2 bell peppers, sliced
 - Garlic and herb soft spreadable cheese (I like [alouette brand](https://www.alouettecheese.com/products/garlic-herbs-soft-spreadable-cheese))
 - Heavy cream
-- (Optional) bacon bits
+- (Optional) bacon bits (exclude if making vegetarian version)
 - (Optional) other veggies you enjoy!
 
 ## Steps
