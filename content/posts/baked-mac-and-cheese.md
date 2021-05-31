@@ -9,7 +9,7 @@ date: 2021-05-24T12:49:45-07:00
 
 ## Ingredients
 
-- 16 oz elbow macaroni, cooked (or other tubular pasta)
+- 16 oz elbow macaroni
 - 1 tbsp extra virgin olive oil
 - 6 tbsp unsalted butter
 - 1/3 cup all purpose flour
