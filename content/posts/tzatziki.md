@@ -5,7 +5,7 @@ tags:
   - "vegetarian"
 ---
 
-> For gyros, baked potatoes, and raclette.
+> For [gyros](/posts/gyros), baked potatoes, and [raclette](/posts/raclette).
 
 | Prep | Cook | Serves |
 | :----: | :----: | :----: |

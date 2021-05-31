@@ -5,6 +5,12 @@ date: 2021-05-24T12:33:09-07:00
 
 > Also known as murgh makhani.
 
+<div class="figure">
+
+![](/images/butterchicken.jpg)
+
+</div>
+
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
 | 30 min | 1.5 hr | 6 |

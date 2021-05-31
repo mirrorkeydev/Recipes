@@ -3,6 +3,12 @@ title: "Pork Tonkotsu Ramen"
 date: 2021-05-24T12:49:01-07:00
 ---
 
+<div class="figure">
+
+![](/images/ramen.jpg)
+
+</div>
+
 | Prep | Cook | Serves |
 | :----: | :----: | :----: |
 | a lot | 12-18 hr | 6 |

@@ -3,7 +3,13 @@ title: "Pork Chashu"
 date: 2021-05-24T22:29:42-07:00
 ---
 
-> Also known as pork belly.
+> Also known as pork belly. Great with [tonkotsu ramen](/posts/pork-tonkotsu-ramen).
+
+<div class="figure">
+
+![](/images/porkchashu.jpg)
+
+</div>
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
