@@ -30,7 +30,7 @@ date: 2021-05-24T12:49:45-07:00
 3. Drizzle pasta with olive oil and stir to coat pasta. Set aside to cool while preparing cheese sauce.
 4. Melt butter in a deep saucepan, dutch oven, or stock pot.
 5. Whisk in flour over medium heat and continue whisking for about 1 minute until bubbly and golden.
-6. Gradually whisk in the milk and heavy cream until nice and smooth. Continue whisking until you see bubbles on the surface and then continue cooking and whisking for another 2 minutes. 7.7. Whisk in salt and pepper.
+6. Gradually whisk in the milk and heavy cream until nice and smooth. Continue whisking until you see bubbles on the surface and then continue cooking and whisking for another 2 minutes. Whisk in salt and pepper.
 8. Add two cups of shredded cheese and whisk until smooth. Add another two cups of shredded cheese and continue whisking until creamy and smooth. Note that you're not using ALL of the shredded cheese here, only 2/3 of the total batch. You'll need the other 1/3 later. Sauce should be nice and thick.
 9. Stir in the cooled pasta until combined and pasta is fully coated with the cheese sauce.
 10. Pour half of the mac and cheese into the prepared baking dish. Top with remaining 2 cups of shredded cheese and then the remaining mac and cheese.

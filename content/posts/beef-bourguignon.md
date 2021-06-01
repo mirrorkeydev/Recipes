@@ -9,7 +9,7 @@ tags:
 
 | Prep | Cook | Serves |
 | :----: | :----: | :----: |
-| 20 min | 9 hr | 6 |
+| 1 hr 20 min | 9 hr | 6 |
 
 ## Ingredients
 
