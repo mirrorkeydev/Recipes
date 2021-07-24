@@ -1,5 +1,5 @@
 ---
-title: "Gebrannte Mandeln - Candied Almonds"
+title: "Gebrannte Mandeln"
 date: 2021-05-25T09:03:18-07:00
 tags:
   - "vegetarian"
