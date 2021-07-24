@@ -20,7 +20,7 @@ tags:
 - 2 tsp cinnamon
 - 2 tbsp real vanilla (imitation vanilla will do the same job)
 - 1 oz water 
--
+
 ## Steps
 
 1. Mix the sugar and cinnamon.
