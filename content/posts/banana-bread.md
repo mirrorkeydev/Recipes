@@ -7,6 +7,11 @@ tags:
 
 > Low sugar version with chocolate chips
 
+<div class="figure">
+
+![bananabread](/images/bananabread.JPG)
+
+</div>
 
 
 | Prep   | Cook | Serves |
