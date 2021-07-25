@@ -7,6 +7,11 @@ tags:
 
 > A classic German comfort food, served with sugar-cinnamon or fruit cocktail. 
 
+<div class="figure">
+
+![milchreis](/images/milchreis.jpg)
+
+</div>
 
 
 | Prep   | Cook | Serves |
