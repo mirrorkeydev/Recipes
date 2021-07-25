@@ -4,6 +4,12 @@ date: 2021-05-25T09:02:33-07:00
 ---
 > Simple family recipe for a cake base, usually topped with fruits. See [Erdbeertorte](/posts/erdbeertorte).
 
+<div class="figure">
+
+![tortenboden](/images/tortenboden.JPG)
+
+</div>
+
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
 | 10 min | 25 min | 1 cake base |
