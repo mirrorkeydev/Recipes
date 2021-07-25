@@ -7,7 +7,11 @@ tags:
 
 > Enjoyed hot as well as cold with your favorite mix-ins or fruit. :)
 
+<div class="figure">
 
+![vanilletasse](/images/vanilletasse.jpeg)
+
+</div>
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
