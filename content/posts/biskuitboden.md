@@ -6,7 +6,7 @@ date: 2021-05-25T09:02:33-07:00
 
 <div class="figure">
 
-![tortenboden](/images/tortenboden.JPG)
+![tortenboden](/images/tortenbodenerdbeer.JPG)
 
 </div>
 
