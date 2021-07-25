@@ -9,7 +9,7 @@ tags:
 
 <div class="figure">
 
-![milchreis](/images/milchreis.jpg)
+![milchreis](/images/milchreis.JPG)
 
 </div>
 
