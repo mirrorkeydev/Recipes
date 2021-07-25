@@ -8,6 +8,11 @@ tags:
 > These are a German christmas market treat, but the recipe has some kind of a learning curve and a lot of stirring :)
 
 
+<div class="figure">
+
+![gebrannteMandeln](/images/candiedalmonds.jpeg)
+
+</div>
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
