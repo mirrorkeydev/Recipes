@@ -21,6 +21,8 @@ tags:
 - 50g corn starch
 - 2 eggs (optional)
 - 2 tbsp vanilla extract
+- sugar and cinnamon to taste
+- fruit cocktail (optional)
 
 
 ## Steps
