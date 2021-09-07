@@ -26,7 +26,7 @@ tags:
 - 500 g flour
 - 1.5 tsp salt
 - 3 tbsp sugar
-- 3 tbsp dry yeast
+- 3 tsp dry yeast
 - 60 g whole flax seeds
 - 60 g whole sunflower seeds
 
