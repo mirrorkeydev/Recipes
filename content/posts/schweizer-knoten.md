@@ -40,7 +40,7 @@ tags:
 6. Preheat oven to 350F (or 325 convection)
 7.  Cut each roll in 10-12 equal size pieces and form to long worms roughly 1.5 cm thick (dust hands inbetween).
 8. Form small knots with each and put on lined baking sheet at least 2 inches apart. (other forms can be braids or just rolls)
-9. Make egg wash with 1 egg and one tbsp milk (mix with fork) and brush each roll with egg wash.
+9. Make egg wash with 1 egg and one tbsp milk (mix with fork) and brush each roll with egg wash (this will give a nice golden shine).
 10. Bake for 15-20 minutes or until the rolls are golden.
 11. Let cool on a cookie rack or on a fabric kitchen towel. 
 
