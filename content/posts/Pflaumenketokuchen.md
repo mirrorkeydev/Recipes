@@ -9,7 +9,7 @@ tags:
 
 <div class="figure">
 
-![Pflaumenkuchen](/images/Pflaumenkuchenketo.jpg)
+![Pflaumenkuchenketo](/images/Pflaumenkuchenketo.jpg)
 
 </div>
 
