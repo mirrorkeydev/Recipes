@@ -32,11 +32,11 @@ tags:
 
 ## Steps
 
-1. (For a double/triple layer cake simply multiply recipe and bake in 2 or 3 pans (or round springs)
+1. For a double/triple layer cake simply multiply recipe and bake in 2 or 3 pans (or round springs)
 2. Pre-heat oven to 350F (325F convection)
-3. First mix all dry ingredients in a pan with a spoon/whisk.
+3. First mix all dry ingredients in a bowl with a spoon/whisk.
 4. Then add liquids and eggs and combine thoroughly
-5. Line the pan with parchment paper
+5. Line the pan with parchment paper, grease the sides, and fill in dough, spreading evenly. 
 6. Bake 14-20 minutes on center rack (whenever cake is no longer wet inside)
 7. Let cool on rack and decorate, fill, stack... be creative
 
