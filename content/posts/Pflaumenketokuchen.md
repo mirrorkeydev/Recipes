@@ -26,10 +26,10 @@ tags:
 - 1 tbsp Vanilla extract
 - 1 tsp Almond extract
 - 1.5 cups almond flour
-- 0.5 cup coconut flower
+- 0.5 cup coconut flour
 - 1/4 tsp xantam gum
 - 1 pinch salt
-- 1/2 granulated sugar substitute 
+- 1/2 cup granulated sugar substitute 
 - 2 tsp baking poweder
 - 20-25 plums (depending on size, I used italian prunes in recipe)
 - 1 cup slivered almonds (or chopped)
