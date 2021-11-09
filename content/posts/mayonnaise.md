@@ -13,7 +13,6 @@ tags:
 
 </div>
 
-
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
 | 15 min | - | 1 container |

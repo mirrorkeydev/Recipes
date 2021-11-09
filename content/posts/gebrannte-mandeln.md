@@ -5,8 +5,7 @@ tags:
   - "vegetarian"
 ---
 
-> These are a German christmas market treat, but the recipe has some kind of a learning curve and a lot of stirring :)
-
+> These are a German Christmas market treat, but the recipe has a learning curve and a lot of stirring :)
 
 <div class="figure">
 
@@ -23,7 +22,7 @@ tags:
 - 400g sugar
 - 400 raw whole almonds
 - 2 tsp cinnamon
-- 2 tbsp real vanilla (imitation vanilla will do the same job)
+- 2 tbsp vanilla (real preferred but imitation works too)
 - 1 oz water 
 
 ## Steps

@@ -25,4 +25,8 @@ date: 2021-05-30T20:34:06-07:00
 4. Reduce heat to low, cover and simmer until liquid has been absorbed, about 20 minutes (you'll notice water bubbles stop coming to the surface).
 5. Remove from heat, fluff rice with a fork. Cover with lid and allow to rest 5 minutes off heat. Serve warm.
 
+# Notes
+If you want to adapt this recipe to be vegetarian, replace the water with 1.5 cups vegetarian chicken broth (Better Than Bouillon or Ocean's Halo are good picks),
+and replace the Caldo de Tomate with 8 oz tomato sauce, 1/2 tsp MSG, and salt to taste.
+
 _[Adapted from Cooking Classy.](https://www.cookingclassy.com/authentic-mexican-rice/)_

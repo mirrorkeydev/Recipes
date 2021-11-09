@@ -5,7 +5,7 @@ tags:
   - "vegetarian"
 ---
 
-> Almost a cheesecake but not as sweet. My dad's favorite.
+> Similar to a cheesecake but not as sweet. My dad's favorite.
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |

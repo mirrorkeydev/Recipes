@@ -1,11 +1,12 @@
 ---
-title: "Chocolate cake - Low Carb"
+title: "Chocolate Cake (Low Carb)"
 date: 
 tags:
   - "vegetarian"
+  - "low carb"
 ---
 
-> Super easy low carb chocolate cake, ideal as basis for black forest cake and other layer cakes
+> Super easy low carb chocolate cake, ideal as basis for black forest cake and other layer cakes.
 
 <div class="figure">
 

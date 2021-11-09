@@ -5,14 +5,13 @@ tags:
   - "vegetarian"
 ---
 
-> A classic German comfort food, served with sugar-cinnamon or fruit cocktail. 
+> A classic German comfort food, served with cinnamon sugar or fruit cocktail. 
 
 <div class="figure">
 
 ![milchreis](/images/milchreis.JPG)
 
 </div>
-
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
@@ -29,7 +28,6 @@ tags:
 - sugar and cinnamon to taste
 - fruit cocktail (optional)
 
-
 ## Steps
 
 1. Triple wash the rice and bring with milk, vanilla and butter to a quick boil, then turn down the heat for a light simmer. 
@@ -38,7 +36,5 @@ tags:
 4. When the rice is soft enough, add the milk/starch mix and bring to a quick boil to thicken the milchreis.
 5. Remove from heat and quick-stirr in one or two eggs.
 6. Serve with sugar/cinnamon mix or fruit cocktail (can)
-
-
 
 _Translated to English from my mom's recipe._

@@ -45,5 +45,4 @@ tags:
 10. Repeat for second layer and dust with cocoa (if prepared the night before, add the cocoa before servering to avoid bleading into the cream, just for looks :) )
 11. Refrigerate for at least 2-3 hours before serving and use within 2 days
 
-
 _Adapted and translated to English from [Kochkino.de](https://kochkino.de/tiramisu-selber-machen-tiramisu/2578)_

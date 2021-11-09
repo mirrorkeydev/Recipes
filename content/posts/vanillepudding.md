@@ -5,7 +5,7 @@ tags:
   - "vegetarian"
 ---
 
-> Enjoyed hot as well as cold with your favorite mix-ins or fruit. :)
+> Enjoyed hot as well as cold with your favorite mix-ins or fruit :)
 
 <div class="figure">
 
@@ -36,6 +36,5 @@ tags:
 5. Serve in little bowls (hot or cold)
 
 For a chocolate pudding, increase milk amount by 50 ml and add 1 tbsp of cocoa to the milk during heating stage.
-
 
 _Translated to English from my mom's recipe._

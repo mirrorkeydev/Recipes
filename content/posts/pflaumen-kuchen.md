@@ -1,11 +1,12 @@
 ---
-title: "Plum Cake low carb"
+title: "Plum Cake (Low Carb)"
 date: 
 tags:
   - "vegetarian"
+  - "low carb"
 ---
 
-> Low carb version of plum cobler
+> Low carb version of plum cobbler.
 
 <div class="figure">
 
@@ -49,4 +50,4 @@ tags:
 
 
 
-_Adapted from https://www.ibreatheimhungry.com/vienna-plum-cake-low-carb-and-gluten-free/
+_Adapted from https://www.ibreatheimhungry.com/vienna-plum-cake-low-carb-and-gluten-free/_

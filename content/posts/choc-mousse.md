@@ -1,12 +1,13 @@
 ---
-title: "Mouse au chocolate"
+title: "Mouse Au Chocolate"
 date: 2021-05-25T09:03:18-07:00
 tags:
   - "vegetarian"
+  - "low carb"
   - "keto"
 ---
 
-> Super quick and sugar free
+> Super quick and sugar free chocolate mousse.
 
 <div class="figure">
 

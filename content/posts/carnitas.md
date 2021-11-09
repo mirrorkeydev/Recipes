@@ -7,25 +7,28 @@ tags:
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
-| 30min | 6-8hr | 12 |
+| 15 min | 8-10hr | 12 |
 
-> Mexican pulled pork, great on toasted buns and in burritos.
+> Mexican pulled pork, great in burritos.
+
 ## Ingredients
-- 1 to 2 tablespoons fat or oil for skillet
-- 4 pounds boneless pork shoulder, cut into two equal pieces
-- 2 cups [barbecue sauce](/posts/bbq-sauce), divided, plus more for serving
-- 1/2 cup water
+- 4 pounds skinless, boneless pork butt or shoulder
+- 3-4 tsp salt
+- 1 tsp pepper
+- 1 tbsp dried oregon
+- 1 tbsp ground cumin
+- 1 large brown or white onion, cut into wedges
+- 8 cloves garlic, smashed
+- 2 limes, juiced
+- 2 large oranges, juiced (or 3/4 cup orange juice)
+- 3/4 cup Mexican Coca Cola with cane sugar (can substitute chicken stock in a pinch)
+- 2 bay leaves
 
 ## Steps
-1. Brown pork in a skillet on both sides, about 3 minutes per side. Put on a plate.
-2. Add 1 cup barbecue sauce and 1/2 cup water to the slow cooker. Stir to combine. Add browned pork and any accumulated juices to the pot.
-3. Let slow cooker cook for 6-8 hours.
-4. Carefully remove the meat from the pressure cooker and shred with two forks, discard excess fat as you shredded.
-5. Strain cooking liquid, reserving 1/2 cup.
-6. (Optional) Broil the carnitas in an oven to add crispiness.
-7. Place shredded pork in the cooking pot with remaining 1 cup barbecue sauce and reserved 1/2 cup cooking liquid. Stir to combine and bring to a simmer, stirring frequently.
+1. In the bowl of a 6-quart slow cooker, add pork, salt, pepper, oregano, cumin, onion, garlic, lime juice, orange juice, cola, and bay leaves.
+2. Cover and cook on low heat setting for 8-10 hours, or high heat for 5-6 hours (until the meat falls apart).
+3. Remove pork and shred with two forks -- do not discard the liquid.
+4. Transfer the pork to a baking sheet.
+5. Pour 1 ladle full (about 1 cup) of the liquid from the slow cooker over the pork to season. Broil for 5-10 minutes on high heat until the meat becomes golden browned and crispy on the edges.
 
-## Notes
-This recipe can also be used in a pressure cooker. High pressure, cook time 75 minutes.
-
-_Adapted from: [Pressure Cooking Today](https://www.pressurecookingtoday.com/easy-pressure-cooker-pulled-pork/), [Gimme Some Oven](https://www.gimmesomeoven.com/crispy-slow-cooker-carnitas/)_
+_Adapted from: [CafeDelites](https://cafedelites.com/pork-carnitas-mexican-slow-cooked-pulled-pork/#recipe)_
