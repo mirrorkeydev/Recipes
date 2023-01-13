@@ -1,6 +1,6 @@
 ---
 title: "No-Noodle Lasagna"
-date: 2021-05-24T12:47:25-07:00
+date: 2023-01-13T10:53:00-07:00
 tags: 
   - "gluten free"
 ---
@@ -30,6 +30,7 @@ tags:
 - 2 tsp garlic powder
 - 2 tsp dried basil
 - 2 tsp Italian seasoning
+- Pinch salt
 
 ## Steps
 
@@ -43,7 +44,7 @@ tags:
 7. When the “noodles” are done baking, cool in the fridge for about 20 minutes and then cut into thirds. This makes three perfectly sized “noodle” layers for an 8.5 X 4.5 X 2.5 loaf pan.
 
 #### Filling
-1. In a large skillet over medium-high heat, combine ground beef, minced onion, oregano, garlic powder, dried basil and a pinch of salt. Cook until the meat is browned.
+1. In a large skillet over medium-high heat, combine ground beef, minced onion, oregano, garlic powder, dried basil, italian seasoning and a pinch of salt. Cook until the meat is browned.
 2. Drain excess fat from pan and add ¾ cup marinara sauce to meat. Reduce heat to low and simmer for 10 minutes.
 
 #### Combine
