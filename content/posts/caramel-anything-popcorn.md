@@ -13,8 +13,8 @@ date: 2023-01-13T10:53:00-07:00
 - 1-2 tbsp popping oil (like canola)
 - 1/4 tsp popcorn salt
 - 1/2 cup dark brown sugar
-- 2 Tablespoons agave syrup or corn syrup
-- 1/2 teaspoon baking soda
+- 2 tbsp agave syrup or corn syrup
+- 1/2 tsp baking soda
 
 #### Miso style
 
