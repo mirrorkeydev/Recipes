@@ -1,7 +1,6 @@
 ---
 title: "Hefeklöße - Yeast Dumplings"
-date: 2023-07-09T12:49:58-07:00
----
+date: 2023-07-09
 
 <div class="figure">
 
