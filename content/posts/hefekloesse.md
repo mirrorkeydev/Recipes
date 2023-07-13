@@ -29,7 +29,7 @@ date: 2021-10-19T12:48:16-07:00
 7. Form round flat balls and lay into steamer with 2 inches space between each dumpling.
 8. Let dough rest for another 10-15 minutes in oven with lights on.
 9. Put steam on pot with rolling boiling water and let steam for 10 minutes.
-10. Serve immediately with fruit jelly and vanilla sauce.
-11. Srub the steamer immediately or you will regret it later :)
+10. Serve immediately with fruit jam and vanilla sauce.
+11. Scrub the steamer immediately or you will regret it later :)
 
 _[Adapted from a recipe from East Germany where my mom grew up]_
