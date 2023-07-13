@@ -3,9 +3,15 @@ title: "Hefeklöße - Yeast Dumplings"
 date: 2021-10-19T12:48:16-07:00
 ---
 
+<div class="figure">
+
+![hefekloesse](/images/hefekloesse.jpg)
+
+</div>
+
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
-| 2 hr | 30 min | 10 buns |
+| 1 hr | 10 min | 12 buns |
 
 ## Ingredients
 
