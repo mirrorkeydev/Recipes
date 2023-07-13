@@ -1,13 +1,7 @@
 ---
 title: "Hefeklöße - Yeast Dumplings"
-date: 2023-07-09
-
-<div class="figure">
-
-![](/images/bao.jpg)
-
-</div>
-
+date: 2021-10-19T12:48:16-07:00
+---
 
 | Prep   | Cook | Serves |
 | :----: | :----: | :----: |
